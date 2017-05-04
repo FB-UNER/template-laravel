@@ -1,1 +1,1 @@
-Esta es una nueva <?php phpinfo(); ?>
+Esta es una nueva <?php phpinfo() ?>
